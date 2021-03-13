@@ -10,4 +10,4 @@ I enjoy teaching, specifically design patterns and best practices. I am a strong
 
 <a href="https://tragopoulos.com" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/badge/Website-inactive.svg?style=for-the-badge&logo=Windows%20Terminal)</a>
 <a href="https://www.linkedin.com/in/tragopoulos" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>
-<a href="https://twitter.com/FTragopoulos" target="_blank" rel="noopener noreferrer">![Twitter](https://img.shields.io/badge/Twitter-white.svg?style=for-the-badge&logo=Twitter)</a>
+<a href="https://twitter.com/FTragopoulos" target="_blank" rel="noopener noreferrer">![Twitter](https://img.shields.io/badge/Twitter-9cf.svg?style=for-the-badge&logo=Twitter)</a>
