@@ -1,4 +1,4 @@
-I’m Fotios Tragopoulos, a result-oriented **Cloud Architect, Developer & DevOps - Microservices & Omnichannel Engineer**. 
+## Cloud Architect, Developer & DevOps - Microservices & Omnichannel Engineer
 
 I implemented new ideas in both start-ups and well-branded companies and managed projects and teams in R&D and production. 
 
