@@ -1,4 +1,4 @@
-### Cloud Architect, Developer & DevOps - Microservices & Omnichannel Engineer
+### Cloud Architect, Dev & DevOps - Microservices & Omnichannel Engineer
 
 ----
 
